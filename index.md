@@ -21,7 +21,7 @@ In my [master's thesis](https://github.com/karvla/histosnet) I used machine lear
 `2014  - 2018`
 __BSc in Applied Physics and Electrical Engineering at Linköping University__
 
-Also did one semester of Biomedical Engineering at Linköping University.
+I also did one semester of Biomedical Engineering at Linköping University.
 
 ## Publications
 
@@ -49,7 +49,7 @@ __Project Manager of Team Lund__, iGEM Competition
 We earned a gold medal in [the international sythetic biology competition](https://igem.org/) for engineering a proof-of-concept probiotic to help the body get rid of toxic metals. Here's our [work](https://2019.igem.org/Team:Lund).
 
 `2018`
-__1st place in Robot Competition__, Linköping
+__1st place in Robot Competition__, Linköping University
 
 At Linköping University many engineering students participate in an annual robot competition as a part of their bachelor project. My team won our category by building a robot that could navigate a maze in the shortest time.
 
@@ -65,9 +65,9 @@ I helped develop and integrate the software used in a [science experiment](https
 
 I once designed and build a cute camera that prints straight to receipt-paper. I'm still pretty proud of it. [Check it out!](https://youtu.be/iE71ovo4mns)
 
-`2017 - 2018` __Team leader__, Costumes and Makeup - Linköpings Studentspex
+`2017 - 2018` __Team leader__, Linköpings Studentspex - Costumes & Makeup
 
-[Spex is a form student musical theater](https://en.wikipedia.org/wiki/Spex_(theatre)). 
+[Spex is a form of student musical theater](https://en.wikipedia.org/wiki/Spex_(theatre)). 
 
 __Driver's licence__
 
