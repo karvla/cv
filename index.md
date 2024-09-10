@@ -12,16 +12,21 @@ Software Engineer with a background in AI/ML & physics.
 
 ## Skills
 
-Hard: Java, C++, Python, TensorFlow, AI/ML,  Docker, Dart, JavaScript/TypeScript, React, Git, Gitlab CI/CD, 
+Hard: Java, C++, Python, TensorFlow, AI/ML,  Docker, Dart, JavaScript/TypeScript, React, Angular, Git, Gitlab CI/CD, Azure, .NET
 
 Soft: Data visualization, communication, project management, problem-solving, creativity, leadership
 
 ## Occupations
 
-`2022 - now`
+`2024 - now`
+__Fullstack Developer__, Schneider Electric
+
+Currently I'm a fullstack developer at Schneider Electric where I help build and maintain cloud applications and backend services using .NET, Angular, SQL, GraphQL and Kafka.
+
+`2022 - 2024`
 __Software Engineer__, itACiH 
 
-Currently I'm a Software Engineer at itACiH where I help build a real-time application using web- and mobile-technologies such as Java, JavaScript/TypeScript, Backbone, React, SQL, Git, and Gitlab CD/CI.
+At itACiH I took part in developing a real-time application using web- and mobile-technologies such as Java, JavaScript/TypeScript, Backbone, React, SQL, and Gitlab CD/CI.
 
 `2021 - 2022`
 __Software Engineer__, CellaVision
