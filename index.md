@@ -18,10 +18,13 @@ Soft: Data visualization, communication, project management, problem-solving, cr
 
 ## Occupations
 
-`2024 - now`
+`2025 - now`
+__Software Engineer__, Cytely
+
+`2024 - 2025`
 __Fullstack Developer__, Schneider Electric
 
-Currently I'm a fullstack developer at Schneider Electric where I help build and maintain cloud applications and backend services using .NET, Angular, SQL, GraphQL and Kafka.
+At Schneider Electric I helped build and maintain cloud applications and backend services using .NET, Angular, SQL, GraphQL and Kafka.
 
 `2022 - 2024`
 __Software Engineer__, itACiH 
